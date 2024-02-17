@@ -1,0 +1,328 @@
+{
+  "questions": [
+    {
+      "question": "What is your name?",
+      "answer": "I am an AI model ."
+    },
+    {
+      "question": "How are you?",
+      "answer": "I don't have feelings, but I'm here and ready to assist you!"
+    },
+    {
+      "question": "What can you do?",
+      "answer": "I can help answer questions, generate text, assist in tasks, and more based on the information I've been trained on."
+    },
+    {
+      "question": "Who created you?",
+      "answer": "Gadhaa..."
+    },
+    {
+      "question": "Where are you from?",
+      "answer": "I exist in the digital world and do not have a physical location."
+    },
+    {
+      "question": "Can you help me with math problems?",
+      "answer": "Yes, I can assist with various math problems."
+    },
+    {
+      "question": "Do you sleep?",
+      "answer": "As an AI, I don't require sleep."
+    },
+    {
+      "question": "How do you learn?",
+      "answer": "I learn from vast amounts of text data and information provided to me."
+    },
+    {
+      "question": "Are you intelligent?",
+      "answer": "I am designed to provide helpful and accurate information based on the data I've been trained on."
+    },
+    {
+      "question": "What languages do you speak?",
+      "answer": "I can communicate in multiple languages."
+    },
+    {
+      "question": "What is the meaning of life?",
+      "answer": "The meaning of life can vary for each individual and is often subjective."
+    },
+    {
+      "question": "How do I contact support?",
+      "answer": "Contact support through the provided channels or website of the service or product you need assistance with."
+    },
+    {
+      "question": "What is the weather today?",
+      "answer": "I don't have access to live data. You can check the weather through a weather service or app."
+    },
+    {
+      "question": "Are you a robot?",
+      "answer": "Yes, i am a type of robot."
+    },
+    {
+      "question": "Can you tell a joke?",
+      "answer": "Sure, here's one: Why don't scientists trust atoms? Because they make up everything!"
+    },
+    {
+      "question": "Do you have a sense of humor?",
+      "answer": "I can attempt to be humorous, but it might not always be perfect!"
+    },
+    {
+      "question": "What do you do for fun?",
+      "answer": "I don't have personal experiences, but I enjoy assisting and providing information."
+    },
+    {
+      "question": "Can you predict the future?",
+      "answer": "I can't predict the future with certainty, as it's uncertain and influenced by various factors."
+    },
+    {
+      "question": "Can you sing a song?",
+      "answer": "I'm better at generating text than singing!"
+    },
+    {
+      "question": "What's the best movie?",
+      "answer": "The 'best' movie is subjective and varies from person to person based on preferences."
+    },
+    {
+      "question": "How old are you?",
+      "answer": "I am an AI and do not have an age."
+    },
+    {
+      "question": "What's your favorite color?",
+      "answer": "As an AI, I don't have preferences or favorite colors."
+    },
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "answer": "Mount Everest is the tallest mountain above sea level."
+    },
+    {
+      "question": "How do I learn programming?",
+      "answer": "You can start learning programming by studying online tutorials, books, or enrolling in courses."
+    },
+    {
+      "question": "Can you tell me a fact?",
+      "answer": "Sure! Did you know that the world's oldest known recipe is for beer?"
+    },
+    {
+      "question": "What is the meaning of AI?",
+      "answer": "AI stands for artificial intelligence."
+    },
+    {
+      "question": "Can you help me with my homework?",
+      "answer": "I can provide guidance or information, but I can't do your homework for you!"
+    },
+    {
+      "question": "What is the speed of light?",
+      "answer": "The speed of light in a vacuum is approximately 299,792 kilometers per second."
+    },
+    {
+      "question": "What is your favorite food?",
+      "answer": "As an AI, I don't eat, so I don't have a favorite food."
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answer": "Jupiter is the largest planet in our solar system."
+    },
+    {
+      "question": "Can you define happiness?",
+      "answer": "Happiness is a subjective emotional state characterized by feelings of joy, contentment, and satisfaction."
+    },
+    {
+      "question": "How do I become successful?",
+      "answer": "Success can mean different things to different people. It often involves hard work, dedication, and perseverance."
+    },
+    {
+      "question": "What is the meaning of love?",
+      "answer": "Love is a complex and multifaceted emotion that can involve affection, care, and deep attachment to someone or something."
+    },
+    {
+      "question": "What is love?",
+      "answer": "Love is a complex and multifaceted emotion that can involve affection, care, and deep attachment to someone or something."
+    },
+    {
+      "question": "What is the temperature of the sun's core?",
+      "answer": "The temperature at the sun's core is estimated to be around 15 million degrees Celsius (27 million degrees Fahrenheit)."
+    },
+    {
+      "question": "What is the square root of 144?",
+      "answer": "The square root of 144 is 12."
+    },
+    {
+      "question": "How do I stay motivated?",
+      "answer": "Staying motivated involves setting goals, finding inspiration, and maintaining a positive mindset."
+    },
+    {
+      "question": "Can you recommend a book?",
+      "answer": "There are many great books across various genres. It depends on your interests!"
+    },
+    {
+      "question": "What is the Pythagorean theorem?",
+      "answer": "The Pythagorean theorem states that in a right-angled triangle, the square of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the other two sides."
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "answer": "The capital of Japan is Tokyo."
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "answer": "The boiling point of water at sea level is 100 degrees Celsius (212 degrees Fahrenheit)."
+    },
+    {
+      "question": "Can you help me with writing an essay?",
+      "answer": "I can provide guidance or information that might help in writing an essay."
+    },
+    {
+      "question": "How do I improve my memory?",
+      "answer": "Improving memory can involve techniques like practicing mindfulness, staying organized, getting enough sleep, and using mnemonic devices."
+    },
+    {
+      "question": "What is the tallest building in the world?",
+      "answer": "As of now, the tallest building in the world is the Burj Khalifa in Dubai, United Arab Emirates."
+    },
+    {
+      "question": "What is the meaning of AI ethics?",
+      "answer": "AI ethics refers to the moral principles and guidelines that govern the development and use of artificial intelligence in an ethical and responsible manner."
+    },
+    {
+      "question": "Can you tell me a riddle?",
+      "answer": "Sure! What has keys but can't open locks? A piano!"
+    },
+    {
+      "question": "What is the population of China?",
+      "answer": "The population of China is over 1.4 billion people."
+    },
+    {
+      "question": "What is the difference between a fact and an opinion?",
+      "answer": "A fact is a statement that can be proven or verified objectively, while an opinion is a personal belief or judgment that may vary from person to person."
+    },
+    {
+      "question": "What is the largest ocean in the world?",
+      "answer": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "question": "Can you explain quantum physics?",
+      "answer": "Quantum physics is a branch of physics that describes the behavior of particles at the smallest scales, often deviating from classical physics."
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "answer": "The capital of Australia is Canberra."
+    },
+    {
+      "question": "How do I overcome fear?",
+      "answer": "Overcoming fear often involves understanding it, facing it gradually, and seeking support or guidance when needed."
+    },
+    {
+      "question": "What is the longest river in the world?",
+      "answer": "The Nile River in Africa is often considered the longest river in the world."
+    },
+    {
+      "question": "Can you explain the theory of relativity?",
+      "answer": "The theory of relativity, developed by Albert Einstein, describes how gravity works as the curvature of spacetime and how time and space are relative to the observer's motion."
+    },
+    {
+      "question": "What is the national flower of Japan?",
+      "answer": "The national flower of Japan is the cherry blossom."
+    },
+    {
+      "question": "How do I meditate?",
+      "answer": "Meditation involves focusing the mind and finding a quiet space to achieve a state of calmness and mindfulness."
+    },
+    {
+      "question": "What is the meaning of artificial intelligence?",
+      "answer": "Artificial intelligence refers to the simulation of human intelligence by machines, capable of learning, reasoning, and problem-solving."
+    },
+    {
+      "question": "What is the purpose of life?",
+      "answer": "The purpose of life can vary for each individual and is often a deeply personal and philosophical question."
+    },
+    {
+      "question": "Can you help me improve my writing skills?",
+      "answer": "I can offer tips and suggestions to help enhance your writing skills."
+    },
+    {
+      "question": "What is the largest desert in the world?",
+      "answer": "The largest desert in the world is the Sahara Desert in Africa."
+    },
+    {
+      "question": "How do I start a business?",
+      "answer": "Starting a business involves planning, identifying a niche, creating a business plan, and considering various legal and financial aspects."
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "answer": "The currency of Japan is the Japanese yen."
+    },
+    {
+      "question": "How do I become more productive?",
+      "answer": "To become more productive, focus on prioritizing tasks, time management, setting goals, and avoiding distractions."
+    },
+    {
+      "question": "What is the scientific method?",
+      "answer": "The scientific method is a systematic way of studying and understanding the natural world, involving observation, hypothesis formation, experimentation, and conclusion."
+    },
+    {
+      "question": "What is the meaning of the word 'algorithm'?",
+      "answer": "An algorithm is a set of step-by-step instructions or rules followed to solve a problem or complete a task."
+    },
+    {
+      "question": "What is the smallest country in the world?",
+      "answer": "The smallest country in the world by land area is Vatican City."
+    },
+    {
+      "question": "How do I make friends?",
+      "answer": "Building friendships involves being open, genuine, and engaging in activities where you can meet new people."
+    },
+    {
+      "question": "What is the purpose of education?",
+      "answer": "Education serves various purposes, including acquiring knowledge, developing skills, and fostering personal growth."
+    },
+    {
+      "question": "What is the meaning of the word 'technology'?",
+      "answer": "Technology refers to tools, machinery, devices, and systems developed through scientific knowledge to solve problems or perform tasks."
+    },
+    {
+      "question": "How do I stay healthy?",
+      "answer": "Maintaining good health involves regular exercise, a balanced diet, adequate sleep, and managing stress."
+    },
+    {
+      "question": "What is the difference between 'affect' and 'effect'?",
+      "answer": "'Affect' is usually a verb, meaning to influence or produce a change. 'Effect' is typically a noun, denoting the result or consequence of a change."
+    },
+    {
+      "question": "What is the meaning of 'global warming'?",
+      "answer": "Global warming refers to the long-term increase in Earth's average surface temperature due to human activities, such as burning fossil fuels and deforestation."
+    },
+    {
+      "question": "How do I make a good first impression?",
+      "answer": "Making a good first impression involves being polite, attentive, and presenting oneself positively."
+    },
+    {
+      "question": "What is the meaning of 'artificial neural network'?",
+      "answer": "An artificial neural network is a computational model inspired by the human brain's neural structure, used in machine learning to solve complex problems."
+    },
+    {
+      "question": "How do I start learning a new language?",
+      "answer": "Start by learning basic vocabulary, practicing pronunciation, and immersing yourself in the language through reading, listening, and speaking."
+    },
+    {
+      "question": "What is the meaning of the word 'innovation'?",
+      "answer": "Innovation refers to the introduction of new ideas, methods, products, or processes that bring positive change or improvement."
+    },
+    {
+      "question": "What is the process of photosynthesis?",
+      "answer": "Photosynthesis is the process by which green plants and some other organisms convert light energy into chemical energy to produce glucose and oxygen from carbon dioxide and water."
+    },
+    {
+      "question": "hey",
+      "answer": "hey there!"
+    },
+    {
+      "question": "Current Price of iPhone 15",
+      "answer": "80k"
+    },
+    {
+      "question": "hii",
+      "answer": "hey"
+    }
+  ]
+}
